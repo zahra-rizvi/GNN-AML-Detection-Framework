@@ -11,9 +11,7 @@ The framework models financial transactions as a dynamic graph to capture relati
 - **Explainable AI:** Integrates GNN Explainer to highlight the suspicious subgraph and key features for each alert.
 
 ## 📊 Datasets
-- **Elliptic Bitcoin Transaction Dataset:** [Download from Kaggle](https://www.kaggle.com/ellipticco/elliptic-data-set) or via `torch_geometric.datasets.Elliptic`.
-- **PhiUSIIL Phishing URL Dataset:** [Download from UCI ML Repository](https://www.kaggle.com/datasets/ndarvind/phiusiil-phishing-url-dataset).
-- **Ethereum Phishing Transaction Network:** Processed from XBlock platform [code examples in this repo](https://github.com/wenbixia/xblock-network_analysis).
+- **Elliptic Bitcoin Transaction Dataset:** [Download from Kaggle](https://www.kaggle.com/ellipticco/elliptic-data-set) or via `torch_geometric.datasets.Elliptic`.https://www.kaggle.com/datasets/algozee/credit-risk-and-loan-default-analysis-dataset?resource=download
 
 ## 🔧 Setup and Installation
 (You will add your specific commands here, e.g., `pip install -r requirements.txt`)
